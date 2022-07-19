@@ -1,0 +1,103 @@
+h1 {
+    color: #880808;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 80px;
+    opacity: 1;
+    position: sticky;
+    top: 5px;
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.70);
+    border-radius: 90px 5px;
+    width: 500px;
+    margin: auto;
+    z-index: 1;
+}
+#title {
+    color: rgba(253, 253, 253, 1);
+}
+h2 {
+    color: #880808;
+    text-align: left;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 40px;
+    opacity: 1;
+}
+aside {
+    color: #880808;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 30px;
+    opacity: 1;
+}
+article {
+    color: white;
+    font-family: 'MedievalSharp';
+    font-size: 35px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 216px 30px;
+    text-align: center;
+    list-style-position: inside;
+}
+a:hover {
+    color: #880808;
+}
+a:link {
+    text-decoration: none;
+}
+a {
+    color: white;
+}
+body {
+    background-image: url("Images/Fighting1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border: 3px solid #949494;
+    border-radius: 35px 100px;
+    height: 250px;
+    width: 607px;
+    position: relative;
+    top: 5px;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+th {
+    font-size: 50px;
+}
+#tickets {
+    width: 100px;
+}
+.tv:hover {
+    text-decoration: underline;
+}
+.tv {
+    color: #880808;
+    font-weight: bolder;
+}
+h2 {
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 40px 5px;
+    width: 300px;
+    z-index: 1;
+    text-align: center;
+}
+li {
+    font-family: 'Roboto', sans-serif;
+}
+#d2{
+	width:auto;
+	height:100px;
+	position:relative;
+	top:30px;
+}
